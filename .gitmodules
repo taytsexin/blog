@@ -6,3 +6,19 @@
 	path = tsexinlatestsite/publiv
 	url = https://github.com/taytsexin/taytsexxin.github.io.git
 	branch = main
+[submodule "tsexinsite/taytsexxin.github.io"]
+	path = tsexinsite/taytsexxin.github.io
+	url = https://github.com/taytsexin/taytsexxin.github.io.git
+	branch = main
+[submodule "tsexinsite/public"]
+	path = tsexinsite/public
+	url = https://github.com/taytsexin/taytsexxin.github.io.git
+	branch = main
+[submodule "tsexinsite/publics"]
+	path = tsexinsite/publics
+	url = https://github.com/taytsexin/taytsexxin.github.io.git
+	branch = main
+[submodule "tsexinsite/.public"]
+	path = tsexinsite/.public
+	url = https://github.com/taytsexin/taytsexxin.github.io.git
+	branch = main
